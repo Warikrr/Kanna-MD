@@ -41,33 +41,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://instagram.com/sahrulwara_____'
+global.sgh = 'https://youtu.be/jOhhY7ef_qM'
+global.sgc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
+global.sdc = ''
+global.snh = ''
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '085822347348'
+global.povo = ''
+global.pgopay = ''
+global.ppulsa = '085822347348'
+global.ppulsa2 = '083843192208'
+global.psaweria = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorbot = '6281348735630'
+global.nomorown = '6285822347348'
+global.namebot = 'ArullBotzMD'
+global.nameown = 'ArullOfc'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', '❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶', true]
+  ['6285822347348'],
+  ['6285822347348'],
+  ['6285822347348'],
+  ['6285822347348', '❦ ArullOfc', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,13 +112,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 ArullBotzMDあ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅArullBotzMD˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'ArullBotzMD'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 ArullBotzMD あ⁩ 」'
 
 
 /*============== LOGO ==============*/
