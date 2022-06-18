@@ -47,6 +47,8 @@ https://github.com/Ameliascrf
 
 *❉ Fokus ID:*
 https://github.com/Fokusdotid
+*❉ ArullOfc
+https://github.com/Rullmem
 `
 conn.reply(m.chat, tqto, m, { contextInfo: { externalAdReply: {
             title: `${htjava} ${namebot}`,
